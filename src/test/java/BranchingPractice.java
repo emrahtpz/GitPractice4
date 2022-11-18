@@ -5,5 +5,6 @@ public class BranchingPractice {
 
         // we can keep ignoring some files we forget to ignore, such as mispelling mistakes
         // we can do git rm --caches -r .idea
+        //another commit to new branch
     }
 }
